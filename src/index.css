@@ -27,6 +27,11 @@ header > h1 {
   width: 24px;
 }
 
+main.container {
+  max-width: 60%;
+  margin: 0 auto;
+}
+
 article.journal-entry {
   display: flex;
   padding: 2em;
